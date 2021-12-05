@@ -1,0 +1,37 @@
+{
+  "variables": {
+    "UID": 8
+  },
+  "sessions": {
+  },
+  "users": [
+    {
+      "uid": "BwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "username": "ismaelharun",
+      "displayname": "Ismael",
+      "username": "ismaelharun",
+      "title": "Author",
+      "avatarurl": "/avatars/7/avatar-ismael.png"
+    }
+  ],
+  "posts": [
+    {
+      "post_uid": 7,
+      "avatar_url": "Author",
+      "audience": "Public",
+      "published": "Published",
+      "when": "Sun, 05 Dec 2021 15:21",
+      "user": {
+        "displayname": "Ismael",
+        "username": "ismaelharun",
+        "title": "Author",
+        "avatarurl": "/avatars/7/avatar-ismael.png"
+      },
+      "num_views": 108,
+      "num_reactions": 34,
+      "num_shares": 5,
+      "num_comments": 11,
+      "content": "\"What's so funny about peace, love and understanding?\" -&nbsp;Elvis Costello"
+    }
+  ]
+}
